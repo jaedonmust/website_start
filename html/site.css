@@ -67,3 +67,11 @@ div.postbox{
 
     z-index: 10;
 }
+
+.post1{
+    background-color: aqua;
+}
+
+.post2{
+    background-color: rgb(167, 241, 216);
+}
